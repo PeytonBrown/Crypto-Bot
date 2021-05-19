@@ -1,5 +1,6 @@
 # Showcase
-This is a smiple discord bot to get updated crypto information for your server.
+This is a simple discord bot to get updated crypto information for your server.
+No need to request updated prices just add your coin and the bot will update automatically.
 
 Includes features such as:
  - Custom coin list
